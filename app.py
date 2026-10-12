@@ -24,7 +24,7 @@ def home():
     <html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
-        <title>Sistemas Distribuidos</title>
+        <title>Olá, Docker!</title>
     </head>
     <body>
         <h1>Olá, Docker!</h1>
